@@ -1,0 +1,28 @@
+# Functionality
+All basic requirements implemented very well. Four advanced requirements working.
+
+# Program Design
+A good use of MVC, but your model (only StraightLines) contains drawing code which should be in the View. 
+Very good object-oriented design, packages with nice use of inheritance and polymorphism.
+No need to override methods if you do not indent to use them. 
+
+# Code quality
+Good style, with good indentation, spacing, identifiers. 
+This could be further improved by removing rough comments such as 
+// TODO Auto-generated catch block
+And adding some proper indentation
+Using comments and descriptive Javadoc can improve code readability.
+Remove unused code and empty methods such as in class WindowClose
+
+
+# JUnit tests
+Some attempt at writing tests, but not very extensive.
+
+# General comments
+-
+
+# Grading
+All basic requirements implemented and working. 
+Good use of MVC, OOP, code quality and documentation. 
+Four advanced requirements working.  
+No extensive JUnit tests.
