@@ -1,0 +1,25 @@
+Functionality
+- Your program satisfies all requirements and passes all basic and most private tests.
+
+Code, Design & Implementation
+Overall your code is very sensibly designed.
+
+- Very good use of method decomposition and OO.
+- Very good quality of code
+- Good use of javadocs and comments which makes code readable 
+- Good data types and identifiers,
+- Clean and readable code,
+- Good indentation,
+
+Testing/Autochecker
+All basic and private tests passed. (45/47)
+- 1 private test fails for Invalid length argument (testInvalidLength). 
+  It should print the following line when length argument <= 0
+  usage: java AlignText file_name line_length [align_mode]
+- 1 private test fails for right enhancement (private/enhancement/right/Test45_poppins_1000_B)
+
+Overall comments
+A practical containing clear, well-designed code achieving required functionality, with good coding, design and implementation. 
+Passes all basic and most private tests showing real insight into the subject matter.
+You can use your student id as author or remove the comment in your code as shown in your code:
+ @author xy
