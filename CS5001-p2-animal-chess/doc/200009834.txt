@@ -1,0 +1,43 @@
+Functionality
+All basic tests passing, with sensible code design and implementation. Most private tests pass as well.
+
+Code Quality, Design & Implementation
+- Good use of packages
+- Sensible use of method decomposition and OO
+- Good Implementation of UML
+- Sensible quality of code
+- Good use of javadocs and comments which makes code readable
+- Code readibility can be improved by proper indentation, removing commented code.
+- Remove commented code
+- getLegalMoves() in classes can be optimised.
+- Avoid using comments which do not describe your code for example 
+     /**
+     * oh dear.
+     */
+
+Autochecking
+All basic tests passed.
+Passes some private tests.
+
+Testing
+- Your program passes all basic tests. 
+- It fails some private tests such as:
+
+* private/Test06_GameTests/infoJUnit
+	anotherFullGame(game_tests.GameTest): null
+	Failed 1 out of 7 Game JUnit tests!
+
+* private/Test10_PieceTests/infoJUnit
+	testDropNoPromote(piece_tests.ChickTest): expected:<1> but was:<0>
+	testGetLegalMovesTestEdgeOther(piece_tests.LionTest): Index 5 out of bounds for length 5
+	Failed 2 out of 18 Piece JUnit tests!
+
+	
+Overall comments
+You should only put your student id in author name. Do not use 
+/**
+ * Neko cat.
+ * @author Xy
+ */
+A practical containing well-designed code achieving required functionality, with sensible coding, design and implementation. 
+Passes all basic tests and most private tests showing real insight into the subject matter.
