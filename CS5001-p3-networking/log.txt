@@ -1,0 +1,104 @@
+Request: GET /index.html HTTP/1.1
+At:06/59/2020 12:59:23
+Response...
+Header: 
+HTTP/1.1 200 OK
+Server: Simple Java Http Server
+Content-Type: text/html
+Content-Length: 1279
+At: 06/59/2020 12:59:23
+
+===========================================
+
+===========================================
+Request: GET /page2.html HTTP/1.1
+At:06/59/2020 12:59:32
+Response...
+Header: 
+HTTP/1.1 200 OK
+Server: Simple Java Http Server
+Content-Type: text/html
+Content-Length: 805
+At: 06/59/2020 12:59:32
+
+===========================================
+
+===========================================
+Request: GET /beer.jpg HTTP/1.1
+At:06/59/2020 12:59:32
+Response...
+Header: 
+HTTP/1.1 200 OK
+Server: Simple Java Http Server
+Content-Type: jpg
+Content-Length: 24552
+At: 06/59/2020 12:59:32
+
+===========================================
+
+===========================================
+Request: GET /beer.jpg HTTP/1.1
+At:06/59/2020 12:59:32
+Response...
+Header: 
+HTTP/1.1 200 OK
+Server: Simple Java Http Server
+Content-Type: jpg
+Content-Length: 24552
+At: 06/59/2020 12:59:32
+
+===========================================
+
+===========================================
+Request: GET /index.html HTTP/1.1
+At:06/11/2020 14:11:11
+Response...
+Header: 
+HTTP/1.1 200 OK
+Server: Simple Java Http Server
+Content-Type: text/html
+Content-Length: 1279
+At: 06/11/2020 14:11:11
+
+===========================================
+
+===========================================
+Request: GET /page2.html HTTP/1.1
+At:06/11/2020 14:11:13
+Response...
+Header: 
+HTTP/1.1 200 OK
+Server: Simple Java Http Server
+Content-Type: text/html
+Content-Length: 805
+At: 06/11/2020 14:11:13
+
+===========================================
+
+===========================================
+Request: GET /beer.jpg HTTP/1.1
+At:06/11/2020 14:11:13
+Response...
+Header: 
+HTTP/1.1 200 OK
+Server: Simple Java Http Server
+Content-Type: jpg
+Content-Length: 24552
+At: 06/11/2020 14:11:13
+
+===========================================
+
+===========================================
+Request: GET /beer.jpg HTTP/1.1
+At:06/11/2020 14:11:13
+Response...
+Header: 
+HTTP/1.1 200 OK
+Server: Simple Java Http Server
+Content-Type: jpg
+Content-Length: 24552
+At: 06/11/2020 14:11:13
+
+===========================================
+
+===========================================

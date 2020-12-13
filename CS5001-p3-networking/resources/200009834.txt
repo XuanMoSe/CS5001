@@ -1,0 +1,37 @@
+# Tests
+14/14 public and 4/5 private tests passed.
+Test fails due to minor issue. Content type is returned as jpg instead of image/jpeg.
+
+# Functionality
+Basic functionality implemented well.  
+Advanced requirement implemented such as logging, some level of multithreading (max threads and timeout), and returning binary files.
+Delete request implemented but it only seems to be creating log.
+
+# Program Design
+good method decomposition and very nice object orientation.  
+You can further decompose methods for example respond GET, head, delete can be optimised buy using a single method to reduce redundant code.
+Nice implementation of configuration to add timeout and max threads.
+I can see there is a respond method for Delete, however it only creates log for delete.
+
+# Code quality
+sensible style, with good indentation, comments, spacing, identifiers, and descriptive Javadoc.  
+This could be improved further by removing commented code, adding more comments and javadocs and proper spacing.
+Remove commented chunks of code.
+Do not add dummy javadocs for example:
+* Whatever.
+     * @param message out put disconnected message.
+     */
+/**
+     * Why so many javadoc??? I think it is easy to understand.
+     * @param conn socket.
+     * @param dir directory.
+     */
+You should add proper detail about the method. Adding javadocs is a good practice so when others view your code they can understand by simply reading the description. 
+These good programming practices help achieve a good quality code.
+
+# General comments
+Please don’t include your name in submissions, as this makes it hard to mark anonymously.
+
+# Grading
+Working server with very good design and sensible style, and with logging, returning binary images, multi threading and delete request handling for advanced requirements done.
+A coding practical containing well implemented code achieving basic required functionality, with some advanced requirements, written in sensible style, showing real insight into the subject matter.
